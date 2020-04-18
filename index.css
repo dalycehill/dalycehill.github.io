@@ -7,6 +7,34 @@ body {
     background-color: #F5DCDA;
 }
 
+/* unvisited link */
+a:link {
+    color: black;
+}
+
+/* visited link */
+a:visited {
+    color: black;
+}
+
+/* mouse over link */
+a:hover {
+    color: grey;
+}
+
+/* selected link */
+a:active {
+    color: grey;
+}
+
+a:hover p {
+    color: grey;
+}
+
+a:active p {
+    color: grey;
+}
+
 .navbar {
     background-color: #F5DCDA !important;
 }
@@ -48,4 +76,6 @@ body {
 
 .text-bottom {
     position:absolute;
+    
 }
+
