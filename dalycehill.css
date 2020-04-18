@@ -1,0 +1,51 @@
+* {
+    font-family: Consolas, monaco, monospace; ;
+    color: black;
+}
+
+body {
+    background-color: #F5DCDA;
+}
+
+.navbar {
+    background-color: #F5DCDA !important;
+}
+
+.card {
+    height: 90%;
+}
+
+.home h1 {
+    font-size: 500%;
+}
+
+.dalyce-hill {
+    width: 100%;
+}
+
+.language-icons {
+    width: auto;
+    height: 120px;
+}
+.framework-icons {
+    width: auto;
+    height: 100px;
+}
+
+.contact-icons {
+    width: auto;
+    height: 100px;
+}
+
+.about {
+    background-color: rgb(244, 254, 255);
+}
+
+.frameworks {
+    background-color: rgb(244, 254, 255);
+}
+
+.text-bottom {
+    position:absolute;
+    
+}
